@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**magnx42/magnx42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>matis@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap for the last year" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><code>matis@github ~ $ neofetch</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="370" alt="ASCII portrait of Matis" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Matis Geneix: co-founder of FLUXA, student at 42 Angoulême" /></td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://fluxaweb.fr"><code>fluxaweb.fr</code></a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/matis-geneix-4840012a5"><code>linkedin</code></a>
+
+</div>
