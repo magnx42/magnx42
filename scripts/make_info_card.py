@@ -14,13 +14,12 @@ WIDTH, LINE, FS = 980, 42, 24
 TITLE = "matis@fluxa"
 ROWS: list[tuple[str, str]] = [
     ("Name", "Matis Geneix"),
-    ("Now", "Co-founder @ FLUXA"),
+    ("Now", "Data science · Python · SQL"),
+    ("Also", "Co-founder @ FLUXA"),
     ("", "premium web · AI automation · GEO"),
     ("School", "42 Angoulême (C · C++ · Unix)"),
-    ("Stack", "Next.js · TypeScript · Tailwind"),
-    ("Data", "Supabase · Postgres · RLS"),
+    ("Stack", "Next.js · TypeScript · Supabase"),
     ("Infra", "Docker · Traefik · Cloudflare"),
-    ("Focus", "Generative Engine Optimization"),
     ("", None),
     ("Web", "fluxaweb.fr"),
     ("LinkedIn", "in/matis-geneix-4840012a5"),
@@ -50,7 +49,7 @@ def main() -> None:
 
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {WIDTH} {height}" width="{WIDTH}" height="{height}" '
-        f'role="img" aria-label="Matis Geneix, co-founder of FLUXA, student at 42 Angoulême">',
+        f'role="img" aria-label="Matis Geneix, data science with Python and SQL, co-founder of FLUXA, student at 42 Angoulême">',
         "<style>",
         ".l { opacity: 0; animation: in .45s cubic-bezier(.2,.8,.2,1) forwards; }",
         "@keyframes in { from { opacity: 0; transform: translateX(-12px); } to { opacity: 1; transform: none; } }",
