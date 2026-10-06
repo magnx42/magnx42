@@ -11,6 +11,11 @@ name: Update profile art
 permissions:
   contents: write
 
+# un seul run à la fois : deux commits simultanés du bot = push rejeté
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
+
 jobs:
   heatmap:
     runs-on: ubuntu-latest
