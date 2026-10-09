@@ -1,7 +1,7 @@
 <div align="center">
 
 <h3><code>matis@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap for the last year" />
+<img src="./contrib-skyline.svg" width="860" alt="GitHub contributions for the last year, as an isometric skyline" />
 
 <br><br>
 
